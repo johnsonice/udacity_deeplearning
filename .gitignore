@@ -1,7 +1,8 @@
 ### some data file 
 data/
 *checkpoints/
-
+*data/
+*MNIST_data/
 
 
 # Byte-compiled / optimized / DLL files
